@@ -1,0 +1,28 @@
+# Ignore object files and executables
+*.o
+*.out
+*.exe
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore dependency files
+*.d
+
+# Ignore editor and IDE files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+*.dSYM/
